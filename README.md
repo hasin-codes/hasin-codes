@@ -6,15 +6,12 @@ Wed Developer & UI Designer
 
 17-year-old tech fanatic! My code builds worlds, my designs tell stories, and my edits bring them to life. Gamer, Milanista, F1 diehard, and always learning (Python expert, NEXT apprentice). Let's code, design, and race to the future!
 
-* 🌍  I'm based in Rajshahi
+* 🌍  I'm based in Bangladesh
 * ✉️  You can contact me at [fullcopyrightsounds@gmail.com](mailto:fullcopyrightsounds@gmail.com)
-* 🚀  I'm currently working on [Argumentor AI](http://github.com/hasin-codes/Argumentor-AI)
 * 🧠  I'm learning NEXT Js
 * 🤝  I'm open to collaborating on interesting & AI Based
 * ⚡  Huge fan of Sir Lewis, Zlatan & AC MILAN
 
-<a href="https://www.github.com/hasin-codes" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/hasin-codes?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -34,4 +31,4 @@ src="https://img.shields.io/github/followers/hasin-codes?logo=github&style=for-t
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/hasin-codes/Argumentor-AI" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hasin-codes&repo=Argumentor-AI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/hasin-codes/ZeusConnect" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hasin-codes&repo=Argumentor-AI&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
