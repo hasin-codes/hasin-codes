@@ -9,12 +9,9 @@ I’ve worked across AI, automation, and SaaS projects — always focused on cle
 ---
 
 ### 👨‍💻 About Me
-- **Age:** 19  
 - **Email:** [hasin.innit@gmail.com](mailto:hasin.innit@gmail.com)  
-- **Currently Learning:** Next.js, TypeScript, and AI integrations  
+- **Currently Working With:** Next.js, TypeScript, and AI integrations  
 - **Looking to Collaborate On:** AI-driven tools, design systems, and automation projects  
-- **Passions:** AC Milan, Formula 1, AI, and creative product design  
-- **Motto:** *“Build fast, stay curious, and keep it human.”*
 
 ---
 
