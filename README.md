@@ -9,15 +9,15 @@ I work across **AI**, **automation**, and **SaaS** — combining clean execution
 
 ### 🧩 Tech Stack  
 **Core:** Next.js • React • TypeScript • TailwindCSS • shadcn/ui  
-**Backend & Tools:** Supabase • Node.js • REST APIs • ElectronJS  
+**Backend & Tools:** Supabase • Node.js • REST APIs   
 **Design:** Figma • Photoshop  
-**Other:** Git • MongoDB • Arduino  
+
 
 ---
 
 ### ⚙️ Current Focus  
-- Building **ZplitGPT**, best dev friendly AI aggregators  
-- Developing **Sweesh**, a voice-first idea capture and prototype dev workspace  
+- Building ** Z.ai-Kaizen ** overpowered wrapper of Z.ai (experimental) 
+- Developing **GLM-Deck**, a slides for Dynamic Data  
 - Exploring **automation tools** and **AI SDK integrations** for workspace apps  
 
 ---
