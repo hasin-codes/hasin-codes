@@ -16,8 +16,8 @@ I work across **AI**, **automation**, and **SaaS** — combining clean execution
 ---
 
 ### ⚙️ Current Focus  
-- Building ** Z.ai-Kaizen ** overpowered wrapper of Z.ai (experimental) 
-- Developing **GLM-Deck**, a slides for Dynamic Data  
+
+- Developing **GLM-Deck**, a Zread Visualizer  
 - Exploring **automation tools** and **AI SDK integrations** for workspace apps  
 
 ---
