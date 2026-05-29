@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Hasin Raiyan  
 
+Developing ([ZFushou](https://www.zfushou.hasinraiyan.me/))
+
 ### AI • Automation • SaaS  
 
 I’m a 19-year-old developer focused on building products that connect technology, design, and real use.  
@@ -17,7 +19,6 @@ I work across **AI**, **automation**, and **SaaS** — combining clean execution
 
 ### ⚙️ Current Focus  
 
-- Developing [ZFushou]([mailto:hasin.innit@gmail.com](https://www.zfushou.hasinraiyan.me/))
 - Exploring **automation tools** and **AI SDK integrations** for workspace apps  
 
 ---
