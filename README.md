@@ -17,14 +17,14 @@ I work across **AI**, **automation**, and **SaaS** — combining clean execution
 
 ### ⚙️ Current Focus  
 
-- Developing [ZFushou]([mailto:hasin.innit@gmail.com](https://zfushou.hasinraiyan.me/))
+- Developing [ZFushou]([mailto:hasin.innit@gmail.com](https://www.zfushou.hasinraiyan.me/))
 - Exploring **automation tools** and **AI SDK integrations** for workspace apps  
 
 ---
 
 ### 📬 Contact  
 - **Email:** [hasin.innit@gmail.com](mailto:hasin.innit@gmail.com)  
-- **Portfolio:** [https://hasin.vercel.app](https://hasin.vercel.app)  
+- **Portfolio:** [https://hasin.vercel.app](https://www.hasinraiyan.me/)  
 - **LinkedIn:** [linkedin.com/in/hasin-raiyan](https://www.linkedin.com/in/hasin-raiyan)  
 - **GitHub:** [github.com/hasin-codes](https://github.com/hasin-codes)  
 
