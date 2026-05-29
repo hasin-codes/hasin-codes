@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hasin Raiyan  
 
-Developing ([ZFushou](https://www.zfushou.hasinraiyan.me/))
+Developing [ZFushou](https://www.zfushou.hasinraiyan.me/)
 
 ### AI • Automation • SaaS  
 
