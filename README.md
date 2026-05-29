@@ -17,7 +17,7 @@ I work across **AI**, **automation**, and **SaaS** — combining clean execution
 
 ### ⚙️ Current Focus  
 
-- Developing **[ZFushou]([mailto:hasin.innit@gmail.com](https://zfushou.hasinraiyan.me/))**
+- Developing [ZFushou]([mailto:hasin.innit@gmail.com](https://zfushou.hasinraiyan.me/))
 - Exploring **automation tools** and **AI SDK integrations** for workspace apps  
 
 ---
