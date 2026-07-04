@@ -45,7 +45,6 @@ I work across **AI engineering**, **product design**, and **development**, with 
 <a href="https://discord.com/users/hasinraiyan"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 <a href="https://www.behance.com/fullcophasin"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a>
 <a href="https://www.facebook.com/hasin.fcs/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-<a href="https://www.instagram.com/is_that_hasin_"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" width="32" height="32" /></a>
 <a href="https://stackoverflow.com/users/hasin-raiyan"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" width="32" height="32" /></a>
 </p>
 
